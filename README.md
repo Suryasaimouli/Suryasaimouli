@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Surya Sai Mouli Pechetti!  
 
-<!--
-**Suryasaimouli/Suryasaimouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me  
+- 📚 **B.Tech Final Year Student** at **East West Institute of Technology**  
+- 💡 Aspiring **AI/ML Engineer** | Learning Python & Machine Learning  
+- 🚀 Passionate about **Coding, AI, and Technology**  
+- 🎯 Currently focusing on **Python, Data Science, and Machine Learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Skills (Learning)  
+- 🔹 **Programming:** Python  
+- 🔹 **Version Control:** Git & GitHub  
+- 🔹 **Data Science Basics:** NumPy, Pandas  
+- 🔹 **Machine Learning (Upcoming):** Scikit-Learn, TensorFlow  
+
+---
+
+## 📖 My Learning Journey  
+🚀 **Currently Enrolled in:**  
+- **100 Days of Code: The Complete Python Pro Bootcamp** (Udemy)  
+
+💡 **Next Steps:**  
+- ✅ Build small Python projects & upload them here  
+- ✅ Learn Data Science & Machine Learning  
+- ✅ Start contributing to open-source projects  
+
+---
+
+⚡ **Fun Fact:** I’m just getting started in AI/ML & excited to build cool projects!  
+
